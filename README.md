@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiizzdev&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PXgc&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=react"/>
   </a>
 </p>
@@ -30,7 +30,7 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img height="40em" src="https://profile-counter.glitch.me/wiizzdev/count.svg" />
+  <img height="40em" src="https://profile-counter.glitch.me/PXgc/count.svg" />
 </p>
 
 <!--
